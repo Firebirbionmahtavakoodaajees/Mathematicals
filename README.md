@@ -1,3 +1,6 @@
+This project will not be continued.
+---
+
 # Mathematicals
 Simple calculators for personal and unpersonal needs
 
