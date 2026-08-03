@@ -1,4 +1,4 @@
-This project will not be continued.
+This project will not be continued. C++ was great, but I like my memory sealed, and I'd like to keep a healthy body and a healthy mind :)
 ---
 
 # Mathematicals
